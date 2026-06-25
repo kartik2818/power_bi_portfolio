@@ -20,7 +20,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 -   **🔢 KPI Indicators & Tables:** Used **Cards** to display key metrics and **Tables** to provide granular, sortable data.
 -   **🎨 Dashboard Design:** Designed an intuitive and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
 -   **🖱️ Interactive Reporting:**
-    -   **Slicers:** To dynamically filter the report by Job Title.
+    -   **Slicers:** To dynamically filter the report by product category.
     -   **Buttons :** To create a seamless navigation experience.
     -   **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 ---
